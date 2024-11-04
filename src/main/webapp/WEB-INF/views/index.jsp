@@ -6,7 +6,7 @@
     <h1>${msg}</h1>
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
     <h3>Version: 3.2.5</h3>
-    <h3>Version: 1.0</h3>
+    <h3>Version: 3.0</h3>
     <h3>Jenkins CI/CD</h3>
 </body>
 </html>
