@@ -8,5 +8,6 @@
     <h3>Version: 3.2.5</h3>
     <h3>Version: 3.0</h3>
     <h3>Jenkins CI/CD</h3>
+    <h3>Version: 2.0</h3>
 </body>
 </html>
